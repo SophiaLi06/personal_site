@@ -17,6 +17,7 @@ I'm currently majoring Computer Science in the College of Engineering at Cornell
 + I also paint, dance, and go to hockey games sometime. 
 
 + And if you count "house keeping" as a hobby as well, then yes that is also one of my hobbies.
+<!-- end of the list -->
 
 ## Fun Facts
 + Except bedtime, I'm almost never in my dorm.
