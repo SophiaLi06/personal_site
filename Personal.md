@@ -4,6 +4,7 @@ I was born and raised in Beijing, China.
 I went to Tsinghua University High School for middle school and high school (yes Tsinghua University High School in fact consists of both a middle school and a high school).
 
 I'm currently majoring Computer Science in the College of Engineering at Cornell University.
+
 ## Hobby
 + I enjoy fresh air and wandering outdoors. I jog when the weather is warm, and take long walks instead when the weather is cold. I also go to gym whenever I feel like doing so.
 
@@ -16,6 +17,7 @@ I'm currently majoring Computer Science in the College of Engineering at Cornell
 + I also paint, dance, and go to hockey games sometime. 
 
 + And if you count "house keeping" as a hobby as well, then yes that is also one of my hobbies.
+
 ## Fun Facts
 + Except bedtime, I'm almost never in my dorm.
 + According to many of my friends, I appeared to be a "very serious" and somewhat "scary" person when they first met me. Later they were surprised to discover that I was actually quite "逗比" (this is a Chinese word that is used to describe people who make others laugh by behaving in funny or even ridiculous ways).
