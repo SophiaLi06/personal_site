@@ -1,5 +1,5 @@
 ## Education
-I'm currently majoring Computer Science in the College of Engineering at Cornell University.
+I'm currently a senior majoring Computer Science in the College of Engineering at Cornell University.
 
 I went to Tsinghua University High School for middle school and high school (yes Tsinghua University High School in fact consists of both a middle school and a high school).
 
@@ -7,6 +7,11 @@ I went to Tsinghua University High School for middle school and high school (yes
 + Systems and Networking
 + Security
 + Machine Learning
+
+## Publication
++ _Towards Transparency of Decentralized Applications via Automated UI-Logic Discrepancy Discovery_\
+Duan, Y., Zhang, M., Zhao, X., Li, S., Li, M., Xu, F. & Shi, E.\
+_Under Submision_
 
 ## Projects
 + DAPPSCOPE
@@ -24,11 +29,6 @@ I went to Tsinghua University High School for middle school and high school (yes
     + Can also display a scatter plot of the temperature and humidity of the most recent 6 minutes, with one point indicating every minute.
     + Built by connecting an Adafruit DHT11 temperature-humidity sensor and an Adafruit 931 OLED display to an FRDM-K64F board.
     + The demo video is available at [here](https://youtu.be/rXCpg2w4B9Q).
-
-## Publication
-+ _Towards Transparency of Decentralized Applications via Automated UI-Logic Discrepancy Discovery_\
-Duan, Y., Zhang, M., Zhao, X., Li, S., Li, M., Xu, F. & Shi, E.\
-_Under Submision_
 
 ## Trivia
 ### Hometown
