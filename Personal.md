@@ -1,3 +1,5 @@
+[Back to Home](https://sophiali06.github.io/personal_site/)
+
 ## Education
 I'm currently a senior majoring Computer Science in the College of Engineering at Cornell University.
 
