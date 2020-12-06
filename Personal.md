@@ -21,7 +21,7 @@ I was born and raised in Beijing, China.
 
 + I watch funny videos on [bilibili](https://www.bilibili.com/) almost every day before going to bed. My close friends know that I'm pretty good at mimicing those videos.
 
-+ I'm became a fan of musical and stage performances after I went to a Broadway show of _The Phantom Of The Opera_. I try to make some room for a broadway show every time I'm in NYC.
++ I became a fan of musical and stage performances after I went to a Broadway show of _The Phantom Of The Opera_. I try to make some room for a broadway show every time I'm in NYC.
 
 + I also paint, dance, and go to hockey games sometime. 
 
@@ -30,6 +30,7 @@ I was born and raised in Beijing, China.
 
 ### Fun Facts
 + Except bedtime, I'm almost never in my dorm.
+
 + According to many of my friends, I appeared to be a "very serious" and somewhat "scary" person when they first met me. Later they were surprised to discover that I was actually quite "逗比" (this is a Chinese word that is used to describe people who make others laugh by behaving in funny or even ridiculous ways).
 
 + I'm not interested in cooking or even eating good food.
@@ -42,7 +43,7 @@ I was born and raised in Beijing, China.
 
 + My favorite musical actor is [Ayanga](https://en.wikipedia.org/wiki/Ayanga).
 
-+ My favorite British actor is Tom Hiddleston (but I'm actually more of a "DC person").
++ My favorite British actors are Tom Hiddleston and Henry Cavill (I really can't decide which one I like more).
 
 + I know a lot about K-POP and Johnny & Associates idols. My favorite K-POP group is [Shinhwa](https://en.wikipedia.org/wiki/Shinhwa), and my favorite Johnny & Associate group is [V6](https://en.wikipedia.org/wiki/V6_(band)).
 
@@ -50,4 +51,4 @@ I was born and raised in Beijing, China.
 
 + I was trained to become an artist for nearly six years before I entered middle school. (In fact, I applied to my middle school as an art student. But somehow I did super well on the Math section of the entrance exam, and not so well on the drawing section. So, I got placed onto the science track by my school instead.)
 
-+ Both of my parents majored Computer Science in college.
++ Both of my parents majored Computer Science.
