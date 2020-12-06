@@ -19,7 +19,7 @@ _Under Submision_
 
 ## Report
 + _Analyzing the Security of Smart Contracts Using Neural Networks_<br>
-Available [here](documents/Analyzing_the_Security_of_Smart_Contracts_Using_Neural_Networks_summer2020.pdf)
+Available [here](documents/Analyzing_the_Security_of_Smart_Contracts_Using_Neural_Networks_summer2020.pdf).<br>
 **Minghao Li**
 
 ## Projects
