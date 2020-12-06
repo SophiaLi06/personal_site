@@ -17,6 +17,11 @@ _Under Submision_
 Wu, H., Tian, X., Gong, Y., Su X., **Li, M.** & Xu, F.<br>
 _Under Submision_
 
+## Report
++ _Analyzing the Security of Smart Contracts Using Neural Networks_<br>
+Available [here](documents/Analyzing_the_Security_of_Smart_Contracts_Using_Neural_Networks_summer2020.pdf)
+**Minghao Li**
+
 ## Projects
 + DAPPSCOPE
     + Automatically discovers the discrepancy between a DApp's UI and its contract code.
