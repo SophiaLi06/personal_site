@@ -5,12 +5,12 @@ I'm Minghao Li. I'm a senior Computer Science major at Cornell University.
 My CV is available [here](documents/CV_Minghao_Li.pdf).
 
 ## Publication
-+ _Towards Transparency of Decentralized Applications via Automated UI-Logic Discrepancy Discovery_<br>
-Duan, Y., Zhang, M., Zhao, X., Li, S., **Li, M.**, Xu, F. & Shi, E.<br>
-_Under Submision_
-
 + _PECAM: Privacy-Enhanced Video Streaming & Analytics via Securely-Recoverable Transformation_<br>
 Wu, H., Tian, X., **Li, M.**, Liu, Y., Ananthanarayanan, G., Xu, F. & Zhong, S.<br>
+_Conditionally accepted at MobiCom'21_
+
++ _Towards Transparency of Decentralized Applications via Automated UI-Logic Discrepancy Discovery_<br>
+Duan, Y., Zhang, M., Zhao, X., Li, S., **Li, M.**, Xu, F. & Shi, E.<br>
 _Under Submision_
 
 + _DAPter: Preventing User Data Abuse in Deep Learning Inference Services_<br>
