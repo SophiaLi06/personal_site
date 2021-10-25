@@ -1,20 +1,20 @@
 
 ## Introduction
-I'm Minghao Li. I'm a senior Computer Science major at Cornell University. 
+I'm Minghao Li. I'm a Computer Science PhD student at Harvard University working with Prof. Minlan Yu. Previously, I got my BS degree in Computer Science at Cornell University. 
 
 My CV is available [here](documents/CV_Minghao_Li.pdf).
 
 ## Publication
 + _PECAM: Privacy-Enhanced Video Streaming & Analytics via Securely-Recoverable Transformation_<br>
 Wu, H., Tian, X., **Li, M.**, Liu, Y., Ananthanarayanan, G., Xu, F. & Zhong, S.<br>
-_Conditionally accepted at MobiCom'21_
+_Accepted at MobiCom'21_
 
 + _DAPter: Preventing User Data Abuse in Deep Learning Inference Services_<br>
 Wu, H., Tian, X., Gong, Y., Su X., **Li, M.** & Xu, F.<br>
 _Accepted at TheWebConf(WWW)'21_
 
-+ _Towards Transparency of Decentralized Applications via Automated UI-Logic Discrepancy Discovery_<br>
-Duan, Y., Zhang, M., Zhao, X., Li, S., **Li, M.**, Xu, F. & Shi, E.<br>
++ _VetSC: Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications_<br>
+Duan, Y., Zhao, X., Pan Y., Li, S., **Li, M.**, Xu, F. & Zhang, M.<br>
 _Under Submision_
 
 ## Report
