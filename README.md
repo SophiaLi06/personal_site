@@ -33,7 +33,7 @@ Available [here](documents/Analyzing_the_Security_of_Smart_Contracts_Using_Neura
     + Uses information retrieval and machine learning techniques including TF-IDF, cosine similarity, Jaccard similarity, Boolean search, and topic modeling.
     + The project is available at [here](https://cu-bookhub.herokuapp.com/).
 
-+ Weather Station
+<!-- + Weather Station
     + Gets the real-time temperature and humidity from the environment and displays them (temperature in both Celsius and Fahrenheit) on the OLED display every four seconds (the temperature is displayed for 2 seconds, and then the humidity is displayed for 2 seconds).
     + Can also display a scatter plot of the temperature and humidity of the most recent 6 minutes, with one point indicating every minute.
     + Built by connecting an Adafruit DHT11 temperature-humidity sensor and an Adafruit 931 OLED display to an FRDM-K64F board.
@@ -41,5 +41,5 @@ Available [here](documents/Analyzing_the_Security_of_Smart_Contracts_Using_Neura
 
 ## Personal
 
-You can go to my [personal page](https://sophiali06.github.io/personal_site/Personal) to learn more fun facts about me.
+You can go to my [personal page](https://sophiali06.github.io/personal_site/Personal) to learn more fun facts about me. -->
 
