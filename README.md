@@ -2,7 +2,7 @@
 ## Introduction
 I'm Minghao Li. I'm a Computer Science PhD student at Harvard University working with Prof. Minlan Yu. Previously, I got my BS degree in Computer Science at Cornell University. 
 
-My CV is available [here](documents/CV_Minghao_Li.pdf).
+My CV is available [here](documents/CV_MinghaoLi.pdf).
 
 ## Publication
 + _PECAM: Privacy-Enhanced Video Streaming & Analytics via Securely-Recoverable Transformation_<br>
@@ -23,6 +23,11 @@ Available [here](documents/Analyzing_the_Security_of_Smart_Contracts_Using_Neura
 **Minghao Li**
 
 ## Projects
++ DAPter
+
++ PECAM
+    + A mobile privacy-enhanced VSA (Video Streaming & Analytics) system that runs on the frontend of a VSA system and performs the reversible privacy-enhanced whole-frame transformation over realtime streaming. 
+
 + DAPPSCOPE
     + Automatically discovers the discrepancy between a DApp's UI and its contract code.
     + DAPPSCOPE analyzes a DApp’s web code to discover all the smart contract functions that are invoked. Builds a business model graph for each of these functions. Locates the corresponding UI component of each function, and applies NLP techniques to the UI texts to infer the category of the business logic and the function’s particular task. Discovers underlying issues by checking the business model graph against the pre-defined high-level specifications of the inferred business logic and task. 
