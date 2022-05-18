@@ -7,7 +7,7 @@ My CV is available [here](documents/CV_MinghaoLi.pdf).
 ## Publication
 + _Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications_<br>
 Duan, Y., Zhao, X., Pan Y., Li, S., **Li, M.**, Xu, F. & Zhang, M.<br>
-_Accepted at CCS'22
+_Accepted at CCS'22_
 
 + _PECAM: Privacy-Enhanced Video Streaming & Analytics via Securely-Recoverable Transformation_<br>
 Wu, H., Tian, X., **Li, M.**, Liu, Y., Ananthanarayanan, G., Xu, F. & Zhong, S.<br>
