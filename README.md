@@ -5,6 +5,10 @@ I'm Minghao Li. I'm a Computer Science PhD student at Harvard University working
 My CV is available [here](documents/CV_MinghaoLi.pdf).
 
 ## Publication
++ _Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications_<br>
+Duan, Y., Zhao, X., Pan Y., Li, S., **Li, M.**, Xu, F. & Zhang, M.<br>
+_Accepted at CCS'22
+
 + _PECAM: Privacy-Enhanced Video Streaming & Analytics via Securely-Recoverable Transformation_<br>
 Wu, H., Tian, X., **Li, M.**, Liu, Y., Ananthanarayanan, G., Xu, F. & Zhong, S.<br>
 _Accepted at MobiCom'21_
@@ -12,10 +16,6 @@ _Accepted at MobiCom'21_
 + _DAPter: Preventing User Data Abuse in Deep Learning Inference Services_<br>
 Wu, H., Tian, X., Gong, Y., Su X., **Li, M.** & Xu, F.<br>
 _Accepted at TheWebConf(WWW)'21_
-
-+ _VetSC: Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications_<br>
-Duan, Y., Zhao, X., Pan Y., Li, S., **Li, M.**, Xu, F. & Zhang, M.<br>
-_Under Submision_
 
 ## Report
 + _Analyzing the Security of Smart Contracts Using Neural Networks_<br>
