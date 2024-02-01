@@ -1,6 +1,6 @@
 
 ## Introduction
-I'm Minghao Li. I'm a Computer Science PhD student at Harvard University working with Prof. Minlan Yu. Previously, I got my BS degree in Computer Science at Cornell University. 
+I'm Minghao Li. I'm a 3rd-year Computer Science PhD student at Harvard University working with Prof. Minlan Yu. Previously, I got my BS degree in Computer Science at Cornell University. 
 
 My CV is available [here](documents/CV_MinghaoLi.pdf).
 
