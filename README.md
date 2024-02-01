@@ -39,7 +39,7 @@ Available [here](documents/Analyzing_the_Security_of_Smart_Contracts_Using_Neura
 + BookHub
     + Generates book recommendations based on user preferences. Allows users to input a list of books (up to 5) and a list of genres (up to 10) they like. Then recommends a list of books of the preferred genres with Goodreads reviews that are similar to the reviews of users’ favorite books. 
     + Uses information retrieval and machine learning techniques including TF-IDF, cosine similarity, Jaccard similarity, Boolean search, and topic modeling.
-    + The project is available at [here](https://cu-bookhub.herokuapp.com/).
+    <!-- + The project is available at [here](https://cu-bookhub.herokuapp.com/). -->
 
 <!-- + Weather Station
     + Gets the real-time temperature and humidity from the environment and displays them (temperature in both Celsius and Fahrenheit) on the OLED display every four seconds (the temperature is displayed for 2 seconds, and then the humidity is displayed for 2 seconds).
