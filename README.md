@@ -24,9 +24,12 @@ Available [here](documents/Analyzing_the_Security_of_Smart_Contracts_Using_Neura
 
 ## Projects
 + DAPter
+    + A user-side DLIS(deep learning inference service)-input converter. DAPter removes unnecessary information with respect to the targeted DLIS. The converted input data by DAPter retains good inference accuracy and is difficult to label manually or automatically for new model training.
+    + DAPter’s conversion is empowered by a lightweight generative model trained with a novel loss function to minimize abusable information in the input data.
+    + DAPter requires no change in the existing DLIS backend and models.
 
 + PECAM
-    + A mobile privacy-enhanced VSA (Video Streaming & Analytics) system that runs on the frontend of a VSA system and performs the reversible privacy-enhanced whole-frame transformation over realtime streaming. 
+    + A mobile privacy-enhanced VSA (Video Streaming & Analytics) system that runs on the front end of a VSA system and performs the reversible privacy-enhanced whole-frame transformation over real-time streaming. 
 
 + DAPPSCOPE
     + Automatically discovers the discrepancy between a DApp's UI and its contract code.
