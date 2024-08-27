@@ -1,10 +1,14 @@
 
 ## Introduction
-I'm Minghao Li. I'm a 3rd-year Computer Science PhD student at Harvard University working with Prof. Minlan Yu. Previously, I got my BS degree in Computer Science at Cornell University. 
+I'm Minghao Li. I'm a 4th-year Computer Science PhD student at Harvard University working with Prof. Minlan Yu. Previously, I got my BS degree in Computer Science at Cornell University. 
 
-My CV is available [here](documents/CV_MinghaoLi.pdf).
+My CV is available [here](documents/CV_MinghaoLi_HarvardCS.pdf).
 
 ## Publication
++ _THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression_<br>
+**Li, M.**, Basat, R., Vargaftik, S., Lao, C., Xu, K., Mitzenmacher, M. & Yu, M.<br>
+_Accepted at NSDI'24_
+
 + _Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications_<br>
 Duan, Y., Zhao, X., Pan Y., Li, S., **Li, M.**, Xu, F. & Zhang, M.<br>
 _Accepted at CCS'22_
@@ -23,6 +27,10 @@ Available [here](documents/Analyzing_the_Security_of_Smart_Contracts_Using_Neura
 **Minghao Li**
 
 ## Projects
++ Tensor Homomorphic Compression (THC)
+    + Enabling direct aggregation (i.e., summation) of compressed gradient values without decompression. THC reduces the inter-machine synchronization overhead through gradient compression while retaining model accuracy.
+    + THC is compatible with in-network aggregation on emerging programmable network devices.
+
 + DAPter
     + A user-side DLIS(deep learning inference service)-input converter. DAPter removes unnecessary information with respect to the targeted DLIS. The converted input data by DAPter retains good inference accuracy and is difficult to label manually or automatically for new model training.
     + DAPter’s conversion is empowered by a lightweight generative model trained with a novel loss function to minimize abusable information in the input data.
