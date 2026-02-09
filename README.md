@@ -1,10 +1,14 @@
 
 ## Introduction
-I'm Minghao Li. I'm a 4th-year Computer Science PhD student at Harvard University working with Prof. Minlan Yu. Previously, I got my BS degree in Computer Science at Cornell University. 
+I'm Minghao Li. I'm a 5th-year Computer Science PhD student at Harvard University working with Prof. Minlan Yu. Previously, I got my BS degree in Computer Science from Cornell University. 
 
 My CV is available [here](documents/CV_MinghaoLi_HarvardCS.pdf).
 
 ## Publication
++ _FIELDING: Clustered Federated Learning with Data Drift_<br>
+**Minghao Li**, Dmitrii Avdiukhin, Rana Shahout, Nikita Ivkin, Vladimir Braverman, Minlan Yu<br>
+_Accepted at AISTATS'26_
+
 + _THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression_<br>
 **Li, M.**, Basat, R., Vargaftik, S., Lao, C., Xu, K., Mitzenmacher, M. & Yu, M.<br>
 _Accepted at NSDI'24_
