@@ -2,7 +2,7 @@
 ## Introduction
 I'm Minghao Li. I'm a 5th-year Computer Science PhD student at Harvard University working with Prof. Minlan Yu. Previously, I got my BS degree in Computer Science from Cornell University. 
 
-My CV is available [here](documents/CV_MinghaoLi_HarvardCS.pdf).
+My CV is available [here](documents/CV_MinghaoLi_Feb2026.pdf).
 
 ## Publication
 + _FIELDING: Clustered Federated Learning with Data Drift_<br>
